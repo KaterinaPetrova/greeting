@@ -1,0 +1,34 @@
+[
+  {
+    "geeting": "hello",
+    "id": "en"
+  },
+  {
+    "geeting": "hola",
+    "id": "es"
+  },
+  {
+    "geeting": "Nǐn hǎo",
+    "id": "zh"
+  },
+  {
+    "geeting": "Guten Tag",
+    "id": "de"
+  },
+  {
+    "geeting": "Olá",
+    "id": "pt"
+  },
+  {
+    "geeting": "Merhaba",
+    "id": "tr"
+  },
+  {
+    "geeting": "Привет",
+    "id": "ru"
+  },
+  {
+    "geeting": "Salve",
+    "id": "it"
+  }
+]
